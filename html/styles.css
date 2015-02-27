@@ -1,6 +1,13 @@
 body {
-	background-image: url('room.jpg');
+	background-image: url('home.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-
+	color: white;
+    font-size: xx-large;
+    font-weight: regular;
+    font-style:italic;
+    font-family: gill sans; sans serif;
+	-webkit-transform: rotate(12deg);
+	position: fixed; top: 49%; left: 16%;
+	
     }
